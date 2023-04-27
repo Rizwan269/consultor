@@ -1,0 +1,67 @@
+.exp{
+    padding: 20px 15px 20px;   
+    background: #EF0548;  
+    border-radius: 0px 0px 20px 20px;
+    margin-top: 20px;
+    width: 100%;
+    overflow: hidden!important;
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 60px;
+}
+.our_company{
+    margin-top: 10%;
+}
+.mediaimg{
+    overflow: hidden;
+    margin-top: 50px;
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+.stars ul {
+    gap: 1px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.stars ul li {
+    list-style: none;
+    position: relative;
+}
+.number{
+    font-size: 30px;
+    line-height: 36px;
+    color:#04213F ;
+    font-weight: 600;
+}
+.color-pd{
+    color: #04213F !important;
+}
+.hrbar{
+    left: 10px;
+    width: 200px;
+    height: 10px;
+    bottom: 0px;
+    max-width: 100%;
+    background: #EF0548;
+    animation:forwards 3s linear infinite;
+}
+.head2{
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 52px;
+    color: #243342;
+}
+.color_red{
+    color: #EF0548
+}
+.headers{
+    padding: 10px;
+    background-color:rgb(247, 237, 237) ;
+}

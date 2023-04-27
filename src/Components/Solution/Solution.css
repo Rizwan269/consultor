@@ -1,0 +1,50 @@
+.txt{
+    font-size: 48px;
+    line-height: 60px;
+    color: #04213F
+
+}
+.sub-text{
+    color: #EF0548;
+    margin-left: 10px;
+    padding: 10px;
+}
+.sub-text img{
+    margin-right: 10px;
+}
+.icons{
+    height: 30px;
+    width: 30px;
+}/*
+.wrapper {
+    gap: 30px 30px;
+    margin-top: 100px;
+    padding: 30px 0;
+}*/
+.w1,.w2,.w3,.w4{
+        position: relative;
+        padding: 40px 30px 30px;
+        background-image: url('../Images/bg2.png');
+        background-size: cover;
+        background-position: right;
+        -webkit-box-shadow: 0px 10px 20px rgb(4 33 63 / 5%);
+        box-shadow: 0px 10px 20px rgb(4 33 63 / 5%);
+    }
+ .sol{
+    margin-top: 10px;
+    padding: 10px 0;
+ }
+ .color_red{
+    color: #EF0548;
+    text-decoration: none;
+}
+.img1{
+    width: 10px;
+    height: 10px;
+}
+.img-fluid{
+    width: 5%;
+}
+.battn{
+    text-decoration: none;
+}

@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald&family=PT+Sans+Narrow:wght@700&family=Roboto:wght@500&display=swap');
+
+@media (max-width: 600px){
+    .main {
+        width: 100%;
+        height: 50px;
+        margin: auto;
+    }
+    .mainform{
+        padding: 5px;
+    }
+}
+.box{
+    border-radius: 20px;
+    background-color: turquoise;
+    padding: 50px 20px;
+   
+}
+.regform{
+    font-family: 'Roboto', sans-serif;
+    font-variant: small-caps;
+    font-weight: 900;
+}
+.regform span{
+    color: #EF0548;
+}
+.inp{
+    padding: 10px ;
+    margin: 20px;
+    width: 80%;
+}
+.main{
+    width: 40%;
+    height: 500px;
+    margin: auto;
+    
+}
+.mainform{
+    justify-content: center;
+    align-items: center;
+    background-image: radial-gradient(circle, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    width: 100%;
+    height: 100vh;
+    padding: 50px;
+}
+button{
+    border: 0;
+    color: #FFF;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    border-radius: 2px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 12px 27.8px;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+    background-color: #EF0548;
+    z-index: 1;
+    overflow: hidden;
+    position: relative;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 17px;
+    line-height: 32px;
+    text-decoration: none;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+    outline: none !important;
+    
+}
+.img-box{
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.txt{
+    color: #121db6;
+    font-size: 18px;
+    font-weight: 700;
+}
+.txt a{
+    text-decoration: none;
+    color: #EF0548;
+
+}

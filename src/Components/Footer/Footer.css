@@ -1,0 +1,111 @@
+.pleft h5{
+    padding: 7px 0;
+}
+.pleft .disk p{
+padding-bottom: 20px;
+}
+.btttn:hover{
+    background-color: #EF0548;
+    color: aliceblue;
+}
+.ctxt a{
+    text-decoration: none;
+    font-weight: 900;
+}
+.ctxt a:hover{
+    color: orange;
+}
+.flidt ul li{
+    list-style-type: none;
+}
+.flidt ul li a{
+   text-decoration: none;
+   color: white;
+}
+.flidt ul{
+display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    gap: 10px 41.5px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    
+}
+.flidt ul li a :hover{
+    color:orange;
+ }
+ .fbbtn input , fin{
+    width: 100%;
+    max-width: 100%;
+    font-size: 15px;
+    font-weight: 400;
+    color: #243342;
+    line-height: 26px;
+    text-align: center;
+    background: #FFF;
+    border-radius: 4px;
+    padding: 12px 15px;
+}
+.ftboxw{
+    gap: 30px;
+    z-index: 1;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    position: relative;
+    padding: 45px 116px;
+    border-radius: 147px;
+    background-size: cover;
+    background-position: center;
+}
+.ftboxw :after {
+    top: 0;
+    left: 0;
+    content: "";
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(239, 5, 72, 0.2);
+}
+.fw2 ul {
+    gap: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    text-decoration: none;
+    list-style-type: none;
+}
+.fw2 ul a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+}
+.fw2 ul :hover{
+    color: orange;
+}
+.footer1{
+    background:#064788;
+    margin-top: 50px;
+    padding: 30px 0;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}

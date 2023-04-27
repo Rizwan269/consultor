@@ -1,0 +1,9 @@
+.date{
+    font-size: 15px;
+    font-weight: 500;
+    color:#4069ff;
+}
+.date:hover{
+cursor: pointer;
+color: #ff9c00;
+}

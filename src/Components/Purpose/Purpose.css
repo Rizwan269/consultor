@@ -1,0 +1,14 @@
+.p1{
+    gap: 25px;
+    background-size: cover;
+    padding: 38.5px 30px 38.5px;
+    background-repeat: no-repeat;
+    -webkit-box-shadow: 0px 10px 30px rgb(4 33 63 / 5%);
+    box-shadow: 0px 10px 30px rgb(4 33 63 / 5%);
+    font-family: 'Oswald', sans-serif;
+    background-image: url(../Images/bg1.png);
+    gap: 10px;
+}
+.p1 title{
+        font-family: 'Oswald', sans-serif;
+}

@@ -1,0 +1,27 @@
+.mail_main{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    gap: 30px;
+    max-width: 1377px;
+    margin-left: auto;
+    padding: 52px 116px 52px 15px;
+}
+
+.mail-content{
+    background: #e00644;
+}
+.personal-info {
+    padding: 10px;
+}
+.personal-info input {
+     width: 300px;
+    max-width: 100%; 
+    font-size: 14px; 
+    line-height: 21px; 
+    color: #243342;
+     padding: 15px 30px;
+    border-radius: 2px; 
+}
+.form{
+    gap:30px;
+}

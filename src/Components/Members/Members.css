@@ -1,0 +1,16 @@
+.ttext{
+bottom: 51px;
+padding: 22.5px 0;
+position: inherit;
+bottom: 0 !important;
+background: #ED5F6D;
+border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+color: white;
+}
+.details{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 0;
+    cursor: pointer;
+}
+

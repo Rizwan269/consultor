@@ -1,0 +1,49 @@
+.color_red{
+    color: #EF0548
+}
+.hbtitle{
+    border-radius: 2px;
+    padding: 10.5px 19px;
+    background-color: #052648;
+}
+.bhmedia .out{
+    left: 50px;
+    bottom: 30px;
+}
+.bhome{
+    background-color: #04213F;
+    padding: 30px 0;
+}
+.butn{
+    border: 0;
+    color: #FFF;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    border-radius: 2px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 18px 37.8px;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+    background-color: #EF0548;
+    z-index: 1;
+    overflow: hidden;
+    position: relative;
+    font-weight: 600;
+cursor: pointer;
+font-size: 17px;
+line-height: 32px;
+text-decoration: none;
+-webkit-transition: all 0.4s ease-in-out;
+transition: all 0.4s ease-in-out;
+outline: none !important;
+margin-bottom: 14px;
+
+}
+.butn:hover{
+    background-color: orange;
+    transition: 0.5s;
+        }

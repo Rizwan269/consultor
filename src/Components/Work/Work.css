@@ -1,0 +1,42 @@
+.buttn{
+    margin-top: 0;
+    background: #e9bdc9;
+    width: calc(100% - 100px);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+   
+    }
+    .iconss{
+        width: 100px;
+        height: 100px;
+        background: #EF0548;
+        position: inherit;
+        margin-bottom: 0;
+        line-height: 100px;
+        color: white;
+    }
+    .wpro{
+        height: inherit;
+    position: relative;
+   
+    padding:0 0px 20px 0px;
+    }
+    .pcontent{
+        padding-top: 30px;
+    }
+    .twh{
+        margin: 20px 0 20px 0;
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .w4 a:hover,.w3 a:hover ,.w2 a:hover ,.w1 a:hover{
+        color: orange;
+    }
+   .color-red{
+    color: #EF0548;
+   }

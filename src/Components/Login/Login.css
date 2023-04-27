@@ -1,0 +1,48 @@
+.login{
+    width: 30%;
+    height: 500px;
+    background-color: aquamarine;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin:30px auto;
+}
+.txt{
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+}
+.inp{
+    padding: 15px 10px;
+    margin: 15px;
+    font-size: 20px;
+    width: 300px;
+}
+.login-btn{
+    border: 0;
+    color: #FFF;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    border-radius: 2px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 12px 27.8px;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+    background-color: #EF0548;
+    z-index: 1;
+    overflow: hidden;
+    position: relative;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 17px;
+    line-height: 32px;
+    text-decoration: none;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+    outline: none !important;
+}
